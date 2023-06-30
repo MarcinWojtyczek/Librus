@@ -1,0 +1,7 @@
+Program to napisana obiektowo aplikacja na wzór Librusa, po odpaleniu programu należy zalogować się na jedno z utworzonych 
+kont adminowskich (nauczyciele) lub uczniowskich.
+Standardowe konto na które można się zalogować zarówno po pobraniu danych z bazy jak i utworzeniu nowej bazy danych to:
+imie: admin, nazwisko: admin, haslo: admin.
+Program ma 2 rodzaje menu (uczniowskie i nauczycielskie), menu uczniowskie pozwala sprawdzac otrzymane oceny, 
+otrzymane wiadomosci oraz na pisanie wiadomości.
+Menu dla nauczycieli pozwala na sprawdzanie wpisanych danych, sortowanie ich, tworzenie nowych kont, dodawanie ocen, pisanie i czytanie wiadomości.
